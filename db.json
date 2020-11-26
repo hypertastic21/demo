@@ -1,14 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "billingId":"2345678",
+  "checkDigitId":"51234568901",
+  "bankAccount":{
+    "accountOwnerName":"Tim Buczak",
+    "accountNumber":"123123",
+    "type":"Checking",
+    "id":"1700366300003e82",
+    "financialInstitute":"Colorado University Credit Union",
+    "nickname":"PM Credit Union",
+    "routingNumber":"123123123"
   }
 }
